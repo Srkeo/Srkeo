@@ -1,6 +1,8 @@
 # SerokSSR
 
-English Name: SerokSSR
+## Who am I? 
+
+English Name: SerokSSR (Serok Super Rare)
 
 Chinese Name: 林澈
 
@@ -9,13 +11,21 @@ Chinese Name: 林澈
 > - 晨汐 (Chen Tsi)
 > - 灵希 (Ling Tsi)
 
-Japanese Name: 小林 徹（音讀み：こばやし あきら Kobayashi Akira）
+Japanese Name: 小林 徹 (音讀み：こばやし あきら Kobayashi Akira)
 
-> @SerokSSR prefers to be called by 訓讀：りん あきら Lin Akira)
+> @SerokSSR prefers to be called by 訓讀：りん あきら Lin Akira。
 
-A senior high student, fighting for 2022 GaoKao.
+## What am I?
 
-Personal Blog: [Serok's Blog](https://snow.js.org/) Only Supports Simplified Chinese.
+**A senior high student, fighting for 2022 GaoKao.**
+
+Personal Blog: [Serok's Blog](https://snow.js.org/).
+
+## Why do I live?
+
+「九死南荒吾不恨，兹游奇绝冠平生」
+
+新しいターミナル、万事勝意 :star:
 
 <!--
 **Srkeo/Srkeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
