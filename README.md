@@ -1,3 +1,5 @@
+> This account is no longer used. Please visit [**@SerokSSR**](https://github.com/SerokSSR/) instead.
+
 # SerokSSR
 
 ## Who am I? 
@@ -21,7 +23,7 @@ Japanese Name: 小林 徹 (音讀み：こばやし あきら Kobayashi Akira)
 
 Personal Blog: [Serok's Blog](https://snow.js.org/).
 
-## Why do I live?
+## What do I hope for?
 
 「九死南荒吾不恨，兹游奇绝冠平生」
 
